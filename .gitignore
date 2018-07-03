@@ -1,0 +1,24 @@
+.vs
+.idea
+_ReSharper.*
+
+packages
+
+[Bb]in
+[Oo]bj
+
+src/[Bb]uild
+src/[Bb]uilds
+src/[Ll]ibrary
+src/[Tt]emp
+src/[Oo]bj
+src/Assets/AssetStoreTools*
+
+# External VMDs (for testing)
+**/*/$Dance/*/*.vmd
+**/*/$Dance/*/*.vmd.meta
+
+*.csproj.user
+*.sln.user
+*.DotSettings.user
+*.DotSettings

@@ -18,7 +18,7 @@ The music and scores built can be played in MLTD (tested).
 
 ### Dance Motion Viewer
 
-1. Put these asset bundles in `StreamingAssets` folder (under Unity's `Assets` folder): model data (`cb_xxyyy_zzzwww.unity3d`) and dance data (`dan_xxxxxx_yy.unity3d`). If there is no `StreamingAssets` folder, create one.
+1. Put these asset bundles in `StreamingAssets` folder (under Unity's `Assets` folder): model data (`cb_xxyyy_zzzwww.unity3d`) and dance data (`dan_xxxxxx_yy.imo.unity3d`). If there is no `StreamingAssets` folder, create one.
 2. Set the fields of "MLTD Model Animator" attached on `GameObject` in the default scene. A template is given.
 3. Run the game and press space key to view.
 

@@ -63,7 +63,7 @@ namespace PlatiumTheater.Runtime.Dancing {
                 yield break;
             }
 
-            var danceBundlePath = Path.Combine(Application.streamingAssetsPath, $"{danceAssetName}.unity3d");
+            var danceBundlePath = Path.Combine(Application.streamingAssetsPath, $"{danceAssetName}.imo.unity3d");
             var modelBundlePath = Path.Combine(Application.streamingAssetsPath, $"{modelAssetName}.unity3d");
 
             AssetBundle danceBundle, modelBundle;

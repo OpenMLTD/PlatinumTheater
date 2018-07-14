@@ -12,7 +12,7 @@ src/[Bb]uilds
 src/[Ll]ibrary
 src/[Tt]emp
 src/[Oo]bj
-src/Assets/AssetStoreTools*
+src/Assets/StreamingAssets
 
 # External VMDs (for testing)
 **/*/$Dance/*/*.vmd

@@ -10,7 +10,7 @@ Please, based on what this repository shows, use your imagination on more other 
 
 ### Custom Music and Scores
 
-The music and scores built can be played in MLTD (tested).
+The music and scores built can be played in MLTD (tested). You can find the built files [here](src/Assets/AssetBundles).
 
 - The score source is from custom beatmap [Death by Glamour](http://undertale.wikia.com/wiki/Death_by_Glamour) ([here](https://www.bilibili.com/video/av15612246/) is its preview) while the data is built into a beatmap for [Blue Symphony](https://www.project-imas.com/wiki/Blue_Symphony). You can check this by running the game. Scenario data (including mouth sync/morph, UI animations, etc.) is from [Shooting Stars](https://www.project-imas.com/wiki/Shooting_Stars), so you will see mismatches in various UI elements. I've tried a minimal attempt to modify the time of some of the animations based on input score. There's an alternative file from Shooting Stars. Replace the content in `blsymp_fumen_sobj.txt` with the content in `shtstr_fumen_sobj.txt` to work.
 - Blue Symphony's ACB file contains audio data from Death by Glamour. An alternative test contains [Brand New Theater!](https://www.project-imas.com/wiki/Brand_New_Theater!).
